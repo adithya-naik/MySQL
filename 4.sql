@@ -1,0 +1,1 @@
+select paymentDate,amount from payments where amount>=40000;

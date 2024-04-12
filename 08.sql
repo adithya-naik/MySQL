@@ -2,3 +2,4 @@
 -- here - reprents any one character and % reprents any munber of characters
 
 select * from employees where firstName like '____y';
+

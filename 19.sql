@@ -26,4 +26,3 @@ select max(paymentDate) as LastPayment,min(paymentDate) as FirstPayment from pay
 select max(checkNumber) as LastPayment,min(checkNumber) as FirstPayment from payments;
 
        
-       
